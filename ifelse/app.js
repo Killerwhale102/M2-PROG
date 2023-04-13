@@ -1,17 +1,18 @@
 class App
 {
-    runApplication()
-    {
+    runApplication(){
+    
         console.log("hello world!");
         let randomGetal = Math.random()
 
-        if (randomGetal == 0 )
+        if (randomGetal == 0 );
             
-        if (randomGetal > 0.2)
+        if (randomGetal > 0.2);
         
-        if (randomGetal > 0.6)
+        if (randomGetal > 0.6);
         
     }
+    
     
 }
 
